@@ -1,4 +1,3 @@
-# Agriculture Crop Prediction System
 
 A machine learning-based crop recommendation system that predicts the most suitable crops using soil nutrients, weather conditions, and historical agricultural data. The application combines a Random Forest classifier, weather integration, NPK estimation, and yield analytics to support data-driven farming decisions.
 
