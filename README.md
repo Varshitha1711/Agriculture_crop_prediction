@@ -67,7 +67,8 @@ The model outputs probability scores for each crop and returns ranked recommenda
 Clone the repository:
 
 ```bash
-git clone https://github.com/Anusreereddysama/Agriculture_Crop_prediction.git
+git clone https://github.com/Varshitha1711/Agriculture_crop_prediction/edit/main/README.md
+
 cd Agriculture_Crop_prediction
 ```
 
